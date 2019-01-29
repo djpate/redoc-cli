@@ -1,2 +1,2 @@
 FROM node:alpine
-RUN npm install -g Rebilly/ReDoc#master
+RUN npm install -g redoc-cli@0.7
